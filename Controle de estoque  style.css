@@ -1,0 +1,13 @@
+body {
+    background-color: #f0f2f6;
+}
+
+.block-container {
+    padding-top: 3rem;
+}
+
+.sidebar .sidebar-content {
+    background-color: #ffffff;
+    padding: 20px;
+    border-radius: 12px;
+}
